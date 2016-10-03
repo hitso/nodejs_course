@@ -1,0 +1,10 @@
+{
+  "name": "ast-test",
+  "author": "wilson lua",
+  "description": "ast-test",
+  "scripts":{
+    "start": "node ./src/app.js"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
