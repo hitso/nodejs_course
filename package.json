@@ -2,6 +2,7 @@
   "name": "ast-test",
   "author": "wilson lua",
   "description": "ast-test",
+  "main": "app.js",
   "scripts":{
     "start": "node ./src/app.js"
   },
