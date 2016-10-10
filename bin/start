@@ -1,3 +1,2 @@
 #!/bin/bash
-
-node ../src/app.js
+node ../src/app.coffee
